@@ -531,7 +531,7 @@ native = [
 
 
 # Secondary Language
-native = [
+secondary = [
     "English",
     "French",
     "Arabic",
@@ -547,18 +547,6 @@ native = [
     "Turkish",
     "Japanese",
     "Korean",
-    "Fante",
-    "Twi",
-    "Ga",
-    "Ewe",
-    "Dagbani",
-    "Hausa",
-    "Gonja",
-    "Dangme",
-    "Nzema",
-    "Bimoba",
-    "Kusaal",
-    "Kasem"
 ]
 
 
